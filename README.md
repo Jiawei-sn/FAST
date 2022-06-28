@@ -1,6 +1,5 @@
 # FAST
 > Far-field Amplitude-only Speckle Transfer (FAST) algorithm for quantitative phase imaging through a multi-core fiber bundle.
-> 
 > 14 April 2022
 
 ## Table of Contents
@@ -16,7 +15,8 @@
 - The Matlab code is ulilized for quantitative phase imaging through a multi-core fiber bundle.
 - The far-field speckle images are used to retireve the phase information on the facet of the fiber bundle.
 - You can read our paper for detailed information [1]. Please cite our paper if you used this code for your project.
-- [1] Sun J, Wu J, Wu S, et al. Quantitative phase imaging through an ultra-thin lensless fiber endoscope[J]. arXiv preprint arXiv:2112.12055, 2021.
+- [1] Sun J, Wu J, Wu S, et al. Quantitative phase imaging through an ultra-thin lensless fiber endoscope[J]. Light: Science & Applications, 2022..
+- https://doi.org/10.1038/s41377-022-00898-2
 
 ## Sample Data
 - A sample dataset can be downloaded from the link below

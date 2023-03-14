@@ -1,6 +1,10 @@
 # FAST
-> Far-field Amplitude-only Speckle Transfer (FAST) algorithm for quantitative phase imaging through a multi-core fiber bundle.
+> **F**ar-field **A**mplitude-only **S**peckle **T**ransfer **(FAST)** algorithm for quantitative phase imaging through a multi-core fiber bundle.
 > 14 April 2022
+
+## Quantitative phase imaging through a lensless multicore fiber endoscope
+![figure](QPE_fig.png "Figure1. Quantitative phase imaging through a bare multicore fiber.")
+**Quantitative phase imaging through a bare multicore fiber.** (a) Experimental setup. SMF, single-mode fiber; MO, microscope objective; L, achromatic lens; LP, linear polarizer. (b) Digital refocusing of a multi-layer target at different axial distances. (c) 3D reconstruction of a phase target with nanoscale structures in axial direction. (d) Reconstructed optical path difference map of PAAm micro-gel beads. (e) Reconstructed optical path difference map of a HeLa cell. Scale bars 30 μm.
 
 ## Table of Contents
 * [General Info](#general-information)
